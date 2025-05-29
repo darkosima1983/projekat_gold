@@ -87,7 +87,8 @@ if (isset($_GET['action']) && $_GET['action'] === 'pdf') { //Ako "akcija" postoj
 <head>
   <meta charset="UTF-8">
   <title>Kalkulator</title>
-  <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
